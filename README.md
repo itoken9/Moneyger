@@ -30,3 +30,6 @@
 ![ペーパープロトタイプ1](https://dl.dropboxusercontent.com/u/24429555/%E5%86%99%E7%9C%9F%202015-06-21%2014%2032%2040.jpg)
 
 ![ペーパープロトタイプ2](https://dl.dropboxusercontent.com/u/24429555/%E5%86%99%E7%9C%9F%202015-06-21%2014%2033%2003.jpg)
+
+##Push確認
+・伊藤
